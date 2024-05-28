@@ -15,7 +15,7 @@
 ### How to Run
 
 在Linux命令行执行：./uart
-![Alt text](/doc/uart.png)
+![UI](doc/uart.png)
 
 ## Authors
 
